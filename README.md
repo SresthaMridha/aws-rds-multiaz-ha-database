@@ -74,14 +74,13 @@ The database is deployed in **Multi-AZ** mode with **synchronous replication**, 
 
 Here are the screenshots showing the architecture, configuration, backups, and monitoring setup:
 
-- ![Architecture Diagram](screenshots/01-architecture-diagram.png)
-- ![DB Instance Summary](screenshots/02-db-summary.png)
-- ![Instance Configuration](screenshots/03-configuration.png)
-- ![Multi-AZ Enabled](screenshots/04-multi-az-enabled.png)
-- ![Monitoring Performance Insights](screenshots/05-monitoring-performance-insights.png)
-- ![Backup Settings](screenshots/06-backup-settings.png)
-- ![Manual Snapshot](screenshots/07-manual-snapshot.png)
-- ![Automated Snapshot](screenshots/08-automated-snapshot.png)
+- ![DB Snapshot Details](screenshots/01-db-snapshot-details.png)
+- ![DB Instance Summary](screenshots/02-db-instance-summary.png)
+- ![DB Instance Configuration](screenshots/03-db-configuration.png)
+- ![DB Backups](screenshots/04-db-backups.png)
+- ![DB Snapshots](screenshots/05-db-snapshots.png)
+- ![DB Monitoring](screenshots/06-db-monitoring.png)
+- ![DB Architecture Diagram](screenshots/07-db-architecture-diagram.png)
 
 ---
 
